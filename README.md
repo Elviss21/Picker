@@ -15,7 +15,7 @@ pkg install python3
 
 pkg install git
 
-git clone https://github.com/Albertespinoza/Picker
+git clone  https://github.com/Elviss21/Picker
 
 cd I_Picker
 
